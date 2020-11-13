@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		052BF99A24BA52390055E038 /* TextFieldTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052BF99924BA52390055E038 /* TextFieldTableViewCell.swift */; };
 		05F2F02924707AEA00FCC440 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F2F02824707AEA00FCC440 /* AppDelegate.swift */; };
 		05F2F02B24707AEA00FCC440 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F2F02A24707AEA00FCC440 /* SceneDelegate.swift */; };
 		05F2F02D24707AEA00FCC440 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F2F02C24707AEA00FCC440 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		052BF99924BA52390055E038 /* TextFieldTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldTableViewCell.swift; sourceTree = "<group>"; };
 		05F2F02524707AEA00FCC440 /* SwipeAction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwipeAction.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05F2F02824707AEA00FCC440 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05F2F02A24707AEA00FCC440 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				05F2F03124707AEE00FCC440 /* Assets.xcassets */,
 				05F2F03324707AEE00FCC440 /* LaunchScreen.storyboard */,
 				05F2F03624707AEE00FCC440 /* Info.plist */,
+				052BF99924BA52390055E038 /* TextFieldTableViewCell.swift */,
 			);
 			path = SwipeAction;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				05F2F02D24707AEA00FCC440 /* ViewController.swift in Sources */,
 				05F2F02924707AEA00FCC440 /* AppDelegate.swift in Sources */,
 				05F2F02B24707AEA00FCC440 /* SceneDelegate.swift in Sources */,
+				052BF99A24BA52390055E038 /* TextFieldTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
